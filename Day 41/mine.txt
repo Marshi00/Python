@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+
+</head>
+<body style="background-color: #EAF6F6;">
+
+
+<h1>Something</h1>
+<h3>Something</h3>
+<hr>
+<table cellspacing="25">
+    <thead>
+    <tr>
+        <th>Data</th>
+        <th>Work</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr>
+        <td>2010-2013</td>
+        <td>Lead Devs at somewhere</td>
+    </tr>
+    <tr>
+        <td>2012- Current</td>
+        <td>Doing something</td>
+    </tr>
+    <tr>
+        <td><img src="https://www.conserve-energy-future.com/wp-content/uploads/2014/07/sustainable-development-eco-friendly-globe.jpg" alt="Profile picture"></td>
+        <td>
+            <p><em> this is an image from web</em></p>
+            <P>something to ...</P>
+            <P>something to 333...</P>
+        </td>
+    </tr>
+    </tbody>
+
+    <tfoot>
+
+    </tfoot>
+</table>
+<hr>
+<table cellspacing="20">
+    <thead>
+    <tr>
+        <th>Skills</th>
+        <th>Starts</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>HTML5</td>
+        <td> ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td> ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Python</td>
+        <td> ⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>PHP</td>
+        <td> ⭐ ⭐ ⭐  </td>
+    </tr>
+    <tr>
+        <td>JS</td>
+        <td> ⭐ ⭐ ⭐ </td>
+    </tr>
+
+    </tbody>
+</table>
+
+<table border="20" cellspacing="10">
+    <tr>
+        <td>
+            <table cellspacing="10">
+                <tr>
+                    <td>JS2</td>
+                    <td> ⭐ ⭐ ⭐ </td>
+                </tr>
+                <tr>
+                    <td>JS3</td>
+                    <td> ⭐ ⭐ ⭐ </td>
+                </tr>
+            </table>
+        </td>
+
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>WEB</td>
+                    <td> ⭐ ⭐ ⭐ </td>
+                </tr>
+                <tr>
+                    <td>WEB</td>
+                    <td> ⭐ ⭐ ⭐ </td>
+                </tr>
+            </table>
+        </td>
+
+    </tr>
+</table>
+<p>Founder of the something</p>
+<p><em>Founder of the something</em></p>
+<p><strong>Founder of the something</strong></p>
+<p><b>Founder of the something</b></p>
+<hr>
+<h3><a href="page2.html"> See my other page</a></h3>
+<h3><a href="Contact Me.html"> Contact-Me</a></h3>
+<h3>Books and Subs</h3>
+<ul>
+    <li>itmes 1 </li>
+    <li>itmes 2 </li>
+    <li>itmes 3 </li>
+</ul>
+<ol>
+    <li>first thing
+        <ul>
+            <li>one point 1</li>
+            <li>one point 2</li>
+            <li>one point 3</li>
+        </ul>
+    </li>
+    <li>second thing</li>
+    <li>third thing</li>
+    <li><em><a href="https://www.google.com/"> third thing</a></em></li>
+
+</ol>
+
+<img src="https://www.conserve-energy-future.com/wp-content/uploads/2014/07/sustainable-development-eco-friendly-globe.jpg" alt="Profile picture">
+<img src="some.jpg" alt="pic not found">
+</body>
+</html>
+
