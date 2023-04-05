@@ -4,14 +4,14 @@ from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
 
 # from newsapi import NewsApiClient
-MY_NUMBER = '+19897122708'
-twilio_account_sid = 'AC79bbcb586907bdaf95747e945d38e169'
-twilio_auth_token = '712b5db344c175e07a85c4dca1061cce'
+MY_NUMBER = '+'
+twilio_account_sid = ''
+twilio_auth_token = ''
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 FUNCTION = "TIME_SERIES_DAILY"
-alphavantage_Daily_api_key = "H63BTTF2COUFI489"
-newsapi_api_key = "9a47ef2aad794d908c9c9cdfccae1fbb"
+alphavantage_Daily_api_key = ""
+newsapi_api_key = ""
 alphavantage_Daily_parameters = {
     "function": FUNCTION,
     "symbol": STOCK,
