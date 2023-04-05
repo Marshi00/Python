@@ -10,15 +10,15 @@ from twilio.http.http_client import TwilioHttpClient
 # proxy_client.session.proxies = {'https': os.environ['https_proxy']}
 twilio_account_sid = os.environ.get('twilio_account_sid')
 twilio_auth_token = os.environ.get('twilio_auth_token')
-# twilio_account_sid ='AC79bbcb586907bdaf95747e945d38e169'
-# twilio_auth_token = '712b5db344c175e07a85c4dca1061cce'
-MY_NUMBER = '+19897122708'
+# twilio_account_sid =''
+# twilio_auth_token = ''
+MY_NUMBER = '+'
 MY_LAT = 43.653225  # Your latitude
 MY_LONG = -79.383186  # Your longitude
 parameters = {
     "lat": MY_LAT,
     "lon": MY_LONG,
-    "appid": "ab84bead456a1234155f24e1287506fd",
+    "appid": "",
     "exclude": "daily,minutely,current"
 }
 
