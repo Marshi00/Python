@@ -4,9 +4,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
-ACCOUNT_EMAIL = "arshiyan.mohammad48@gmail.com"
-ACCOUNT_PASSWORD = "Shadow0048"
-PHONE = "5122222222"
+ACCOUNT_EMAIL = ""
+ACCOUNT_PASSWORD = ""
+PHONE = ""
 service = Service("chromedriver_win32/chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.maximize_window()
