@@ -40,8 +40,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-ACCOUNT_EMAIL = "arshiyan.mohammad48@gmail.com"
-ACCOUNT_PASSWORD = ".GaF_m6CyA:7Mu9"
+ACCOUNT_EMAIL = "a"
+ACCOUNT_PASSWORD = ""
 MAX_ALLOW_LIKE = 100
 service = Service("chromedriver_win32/chromedriver.exe")
 driver = webdriver.Chrome(service=service)
