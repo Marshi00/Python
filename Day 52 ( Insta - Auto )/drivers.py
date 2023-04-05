@@ -5,8 +5,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementClickInterceptedException
 
-INSTA_USERNAME = "arshiyan.mohammad48@gmail.com"
-INSTA_PASSWORD = "ya78YA78!"
+INSTA_USERNAME = ""
+INSTA_PASSWORD = ""
 
 
 class InstaFollower:
