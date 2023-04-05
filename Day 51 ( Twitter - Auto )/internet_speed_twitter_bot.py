@@ -6,9 +6,9 @@ from selenium.common.exceptions import NoSuchElementException
 
 PROMISED_DOWN = 150
 PROMISED_UP = 10
-ACCOUNT_EMAIL = "arshiyan.mohammad48@gmail.com"
-ACCOUNT_PASSWORD = "UKetTZd2th3_28i"
-ACCOUNT_USERNAME = "@MoAr66129964"
+ACCOUNT_EMAIL = ""
+ACCOUNT_PASSWORD = ""
+ACCOUNT_USERNAME = ""
 
 class InternetSpeedTwitterBot:
     def __init__(self, driver_path):
