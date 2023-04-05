@@ -24,5 +24,5 @@ print(item_price2)
 current_price = float(item_price.split("$")[1])
 if current_price < 200:
     message = f"Low price alert! Only ${current_price} for the HP Screen ."
-    emails = ["mo.arshian00@gmail.com"]
+    emails = [""]
     notification_manager.send_emails(emails=emails, message=message, link=URL)
